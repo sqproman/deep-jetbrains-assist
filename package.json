@@ -1,0 +1,13 @@
+{
+  "name": "deep-jetbrains-assist",
+  "version": "1.0.0",
+  "description": "Direct proxy for DeepSeek API",
+  "main": "prox.js",
+  "scripts": {
+    "start": "node prox.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
